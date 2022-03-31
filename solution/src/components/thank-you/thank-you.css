@@ -1,0 +1,25 @@
+.thankYouImg {
+  margin-top: 15px;
+  position: relative;
+  margin-left: 50%;
+  left: -81px;
+}
+
+.selectedStars {
+  margin-top: 20px;
+  color: hsl(25, 97%, 53%);
+  width: 155px;
+  border: 10px solid hsl(213, 19%, 18%);
+  border-radius: 25px;
+  display: flex;
+  margin: 20px auto;
+  background-color: hsl(213, 19%, 18%);
+}
+
+.thankYou {
+  text-align: center;
+}
+
+.description {
+  text-align: center;
+}
